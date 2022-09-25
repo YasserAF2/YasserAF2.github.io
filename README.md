@@ -24,5 +24,11 @@
     <p align="center">
         <img src="4.png">
     </p>
+    <h2>Commit</h2>
+    <p>A la hora de modificar un archivo en la pestaña anterior nos aparecerá un (1) indicando que hay cambios nuevos y tendremos que realizar un commit.
+</p>
+    <p align="center">
+        <img src="5.png">
+    </p>
 </body>    
 </html>
