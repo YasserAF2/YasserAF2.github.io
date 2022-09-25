@@ -14,5 +14,15 @@
     <p align="center">
         <img src="2.png">
     </p>
+    <p>Una vez elegida la carpeta podremos inicializarla, solo tendremos que darle a </p>
+    <p align="center">
+        <img src="3.png">
+    </p>
+    <h2>Modificación de archivos</h2>
+    <p>Una vez inicializado el repositorio podremos modificar los archivos que contenga este, en mi caso tengo un archivo.txt que voy a modificar como ejemplo:
+    </p>
+    <p align="center">
+        <img src="4.png">
+    </p>
 </body>    
 </html>
