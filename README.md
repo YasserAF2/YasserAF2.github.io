@@ -30,5 +30,34 @@
     <p align="center">
         <img src="5.png">
     </p>
+    <p>Tendremos que darle al símbolo + que hay al lado de la M</p>
+    <p align="center">
+        <img src="6.png">
+    </p>
+    <p>En la opción Stage Changes</p>
+    <p align="center">
+        <img src="7.png">
+    </p>
+    <p>En la barra de arriba escribimos el comentario y le damos a commit.</p>
+    <p align="center">
+        <img src="8.png">
+    </p>
+    <p>Sync Changes para guardar los cambios.</p>
+    <p align="center">
+        <img src="9.png">
+    </p>
+    <p>Ya dentro de GitHub nos aparece el archivo sincronizado con el mensaje que pusimos durante el commit</p>
+    <p align="center">
+        <img src="10.png">
+    </p>
 </body>    
 </html>
+
+
+
+
+
+
+
+
+
