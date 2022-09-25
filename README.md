@@ -7,5 +7,6 @@
     <h1>Actividad 3: Git + IDE</h1>
     <h2>Creación de un repositorio en local</h2>
     <p>Seleccionamos la tercera pestaña dentro de Visual studio code que tiene el icono</p>
+    ![1](https)
 </body>    
 </html>
