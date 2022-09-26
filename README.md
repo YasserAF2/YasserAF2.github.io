@@ -8,7 +8,7 @@
     <h2>Creación de un repositorio en local</h2>
     <p>Seleccionamos la tercera pestaña dentro de Visual studio code que tiene el icono</p>
     <p>
-        ![imagen](/1.png "S")
+        <img src="1.png">
     </p>
     <p>Y seleccionar Open Folder(Abrir la carpeta)</p>
     <p>
