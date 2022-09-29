@@ -5,7 +5,7 @@
 </head>  
 <body>
     <h1>Trabajo de git en Despliegue</h1>
-
+    <a href="ide.md">Ide</a>
 </body>    
 </html>
 
